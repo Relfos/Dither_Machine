@@ -13,3 +13,9 @@
 ## Download
 
 To get a pre-compiled version for Windows, Mac or Linux, download it from the [Itch.io](https://lunarlabs.itch.io/dither-machine) page.
+
+# Contact
+
+Let me know if you find bugs or if you have suggestions to improve the code.
+
+And maybe follow me [@onihunters](https://twitter.com/onihunters) :)
