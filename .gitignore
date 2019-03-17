@@ -1,0 +1,6 @@
+.DS_Store
+.vs/
+*.user
+/Build
+/Library
+/Packages
