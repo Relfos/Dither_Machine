@@ -8,12 +8,7 @@
 
 **Dither Machine** is a free tool that allows creating dither patterns in pixel-art style for backgrounds and other uses. 
 
-<p align="center">
-ad  <img
-    src="test.gif"
-    width="125px"
-  >
-</p>
+<p align="center"><img src="test.gif"></p>
 
 ## Download
 
