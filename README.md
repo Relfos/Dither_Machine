@@ -1,4 +1,4 @@
-<h1 align="center">Dither_Machine</h1>
+<h1 align="center">Dither Machine</h1>
 
 <p align="center">Pixel dithering tool made with Unity</p>
 

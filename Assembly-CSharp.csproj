@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{0190921C-F874-DEDA-1D9B-D3DF824F89B1}</ProjectGuid>
+    <ProjectGuid>{ED4D780C-7A29-BADE-E2D1-A5C329723593}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -61,21 +61,21 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Clipboard.cs" />
-    <Compile Include="Assets\ComboBox.cs" />
-    <Compile Include="Assets\Dither.cs" />
-    <Compile Include="Assets\DitherEditor.cs" />
+    <Compile Include="Assets\Scripts\Clipboard.cs" />
+    <Compile Include="Assets\Scripts\ComboBox.cs" />
+    <Compile Include="Assets\Scripts\Dither.cs" />
+    <Compile Include="Assets\Scripts\DitherEditor.cs" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>C:/Code/dither_machine/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>C:/Code/Dither_Machine/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Code/dither_machine/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Code/Dither_Machine/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Code/dither_machine/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Code/Dither_Machine/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Code/dither_machine/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Code/Dither_Machine/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
