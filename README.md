@@ -18,4 +18,6 @@ To get a pre-compiled version for Windows, Mac or Linux, download it from the [I
 
 Let me know if you find bugs or if you have suggestions to improve the code.
 
+Plus you can find more of my stuff in my [site](https://lunarlabs.pt).
+
 And maybe follow me [@onihunters](https://twitter.com/onihunters) :)
